@@ -1,5 +1,5 @@
----
-version: "3.3"
+
+version: '3.3'
 services:
   nordvpn:
     container_name: GlueTun-VPN
