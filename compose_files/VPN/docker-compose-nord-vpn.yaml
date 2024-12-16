@@ -24,7 +24,7 @@ services:
     depends_on:
       - nordvpn
     environment:
-      - WEBUI_PORT=8080
+      - WEBUI_PORT=8085
       - PUID=0
       - PGID=0
       - TZ=${TZ}
